@@ -36,4 +36,4 @@ Connect RGB LED to Raspberry Pi:
 
 ## License
 
-MIT
+[MIT](https://github.com/threeiem/wxLED/blob/main/LICENSE)
